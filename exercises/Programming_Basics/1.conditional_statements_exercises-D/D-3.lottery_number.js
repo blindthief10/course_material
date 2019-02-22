@@ -2,7 +2,6 @@ var jackpot = 1000;
 var randomNumber = 93;
 var standardWinnings = 10;
 
-
 if (randomNumber < 500) {
   standardWinnings = 0;
 }else if (randomNumber < 700  || randomNumber >= 800 && randomNumber < 900) {
@@ -19,7 +18,7 @@ if (randomNumber < 500) {
       standardWinnings = jackpot / 5;
       break;
     default:
-      standardWinnings += 10; 
+      standardWinnings += 10;
   }
 
 } else {
