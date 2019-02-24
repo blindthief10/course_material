@@ -1,17 +1,17 @@
 for (var x = 1; x <=100; x++) {
-    var failureCount = 0;
+    var isPrime = true;
 
     for (var y = 2; y <= x - 1; y++) {
 
           if (x % y !== 0) {
-            failureCount++;
+            continue
           }else {
-            break;
+            isPrime = false;
           }
 
     }
 
-    if (failureCount === x - 2) {
-      console.log(`${x}`);
+    if (isPrime) {
+      console.log(`${x} is prime!`);
     }
 }

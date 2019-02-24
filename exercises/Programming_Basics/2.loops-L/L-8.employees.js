@@ -31,4 +31,4 @@ for (var employeeId = 1; cashier - nextPayment >= 0; employeeId++) {
   }
 }
 
-console.log(`${employees - employeeId + 1} workers have not been paid. Egal, go to Bahamas! The cashier has ${cashier}$.`);
+console.log(`${employees - employeeId + 1} workers have not been paid. No matter, go to Bahamas! The cashier has ${cashier}$.`);
