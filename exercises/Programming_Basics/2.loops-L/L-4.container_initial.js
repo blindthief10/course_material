@@ -16,7 +16,6 @@ while(maxWeight >= weightIncluded + weightNextContainer) {
     id === 250 ? weightNextContainer = 100 : weightNextContainer = 50
   } else if (id <= 300){
     weightIncluded += 100;
-    weightNextContainer = 100;
     id === 300 ? weightNextContainer = 200 : weightNextContainer = 100
   } else if (id <= 400) {
     weightIncluded += 200;

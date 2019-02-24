@@ -41,4 +41,4 @@ function calculateUntilEndOfWeek(numDay) {
 
 }
 
-calculateUntilEndOfWeek(1);
+calculateUntilEndOfWeek(4);

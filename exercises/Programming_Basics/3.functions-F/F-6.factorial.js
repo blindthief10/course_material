@@ -5,3 +5,6 @@ let factorial = function(num) {
     }
     return result;
 }
+
+let factorialFive = factorial(4);
+console.log(factorialFive);
