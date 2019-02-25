@@ -3,13 +3,13 @@
 This is the first incomplete repository regarding the course material. Here is gathered
 together Theory and walkthroughs which i have included and you can navigate through the
 links below and in the exercises folder you can find the solutions to all exercises you
-will find in these links. ** Enjoy **
+will find in these links. **Enjoy**
 
 ### General Structure
 
 Below you will find some links. Each link leads you to a different course section.
 
-** Current topics covered and included are **
+**Current topics covered and included are**
 
 1. JavaScript Introduction
 2. Making Decisions with JavaScript
@@ -41,4 +41,4 @@ Walkthrough for basic concepts of functional programming [Find the walkthrough h
 
 A walkthrough for basic concepts on working with Objects, classes and inheritance [Find it here](https://www.goconqr.com/c/60777-js-objects-basics/course_modules/90823-course-s-objectives?=)
 
-This repository is still a work in progress. ** I update it everyday ** , so more is coming!
+This repository is still a work in progress. **I update it everyday** , so more is coming!
