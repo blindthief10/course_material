@@ -1,7 +1,7 @@
 const requirements = ['PHP', 'JS', 'Ruby', 'Python', 'Java'];
 
-const jake = ['Kostas Diakogiannis', 'Julia'];
-const daniel = ['Daniel Cipolla', 'Ruby', 'Python', 'JS', 'PHP'];
+const jake = ['Kostas Diakogiannis', 'Julia', 'Python'];
+const daniel = ['John Doe', 'Ruby', 'Python', 'JS', 'PHP'];
 
 const hiredPeople = [];
 const passedFood = [];

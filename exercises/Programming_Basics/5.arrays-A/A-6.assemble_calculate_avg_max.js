@@ -1,5 +1,5 @@
-let succeeded = [67, 82, 91, 96, 54];
-let failed = [46, 48, 24, 33, 30];
+const succeeded = [67, 82, 91, 96, 54];
+const failed = [46, 48, 24, 33, 30];
 
 let studentsResults = succeeded.concat(failed);
 
@@ -9,30 +9,37 @@ let calculateAvg = function(array) {
     sum += result;
   }
 
-  let average = sum / array.length;
+  const average = sum / array.length;
   return average;
 }
 
-let averageForTenStudents = calculateAvg(studentsResults);
+const averageForTenStudents = calculateAvg(studentsResults);
+console.log(`Average for the first 10 students is ${averageForTenStudents.toFixed(2)}`);
 
-console.log(averageForTenStudents);
+studentsResults.push(37);
 
-studentsResults.push(97);
+const averageForElevenStudents = calculateAvg(studentsResults);
+console.log(`Average for eleven students now has become ${averageForElevenStudents.toFixed(2)}.`);
 
-let averageForElevenStudents = calculateAvg(studentsResults);
-
-console.log(averageForElevenStudents);
-
-let calculateMax = function(array) {
-  for (let i = 1; i < array.length; i++) {
-    if (array[i] > array[0]) {
-      let temp = array [0]
-      array[0] = array[i];
-      array[i] = temp;
-    }
+const compareAverage = function(firstAverage, secondAverage) {
+  if (firstAverage < secondAverage) {
+    console.log(`The average has been raised by ${(secondAverage - firstAverage).toFixed(2)} points.`);
+  } else {
+    console.log(`The average has dropped by ${(firstAverage - secondAverage).toFixed(2)} points.`);
   }
-  return array[0];
 }
 
-let maxOfStudents = calculateMax(studentsResults);
-console.log(`The best result is ${maxOfStudents}`);
+compareAverage(averageForTenStudents, averageForElevenStudents);
+
+const calculateMax = function(array) {
+  let best = array[0];
+  for (let i = 1; i < array.length; i++) {
+    if (array[i] > best) {
+      best = array[i];
+    }
+  }
+  return `Best score in the class is ${best}!`;
+}
+
+const maxOfStudents = calculateMax(studentsResults);
+console.log(maxOfStudents);
