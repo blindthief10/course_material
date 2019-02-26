@@ -8,8 +8,6 @@ const daniel = ['Daniel Cipolla', 'Ruby', 'Python', 'JS', 'PHP'];
 let hiredPeople = [];
 let passedFood = [];
 
-
-
 let hireOrNot = function(candidate, checkedStatement, pushable) {
 
   let skillsMet = 0;
