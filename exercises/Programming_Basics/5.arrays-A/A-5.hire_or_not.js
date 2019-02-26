@@ -1,14 +1,12 @@
-let requirements = ['PHP', 'JS', 'Ruby', 'Python', 'Java'];
-let catalogMenu = ['Chocolate', 'Bananas', 'Kiwi', 'Mangos', 'Strawberries'];
-let favoriteFruits = ['Apple', 'Bananas', 'Cherries'];
+const requirements = ['PHP', 'JS', 'Ruby', 'Python', 'Java'];
 
-const jake = ['Kostas Diakogiannis', 'Julia', 'Python', 'JS', 'PHP'];
+const jake = ['Kostas Diakogiannis', 'Julia'];
 const daniel = ['Daniel Cipolla', 'Ruby', 'Python', 'JS', 'PHP'];
 
-let hiredPeople = [];
-let passedFood = [];
+const hiredPeople = [];
+const passedFood = [];
 
-let hireOrNot = function(candidate, checkedStatement, pushable) {
+const hireOrNot = function(candidate, checkedStatement, pushable) {
 
   let skillsMet = 0;
 
@@ -26,6 +24,5 @@ let hireOrNot = function(candidate, checkedStatement, pushable) {
 
 hireOrNot(jake, requirements, hiredPeople);
 hireOrNot(daniel, requirements, hiredPeople);
-hireOrNot(favoriteFruits, catalogMenu, passedFood);
 
 console.log(hiredPeople);
