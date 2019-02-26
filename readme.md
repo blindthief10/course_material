@@ -41,4 +41,12 @@ Walkthrough for basic concepts of functional programming [Find the walkthrough h
 
 A walkthrough for basic concepts on working with Objects, classes and inheritance [Find it here](https://www.goconqr.com/c/60777-js-objects-basics/course_modules/90823-course-s-objectives?=)
 
+#### JS Working with Arrays
+
+An introduction to arrays and how to store multiple values in one place [Find it here](https://www.goconqr.com/en/c/61130/course_modules/91401)
+
+#### JS Working with Strings
+
+An introduction walkthrough to the string data type [Find it here](https://www.goconqr.com/c/61278-js-strings-data-type/course_modules/91617-course-s-objectives?=)
+
 This repository is still a work in progress. **I update it everyday** , so more is coming!
