@@ -10,5 +10,6 @@ let createRandomHex = function(pool) {
   return randomColor;
 }
 
-//connect this script with your HTML also to see the result!
+//connect this script with your HTML also to see the result! Refresh the page many times
+// You should have a different background color
 document.body.style.background = createRandomHex(possibleDigits);
