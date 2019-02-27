@@ -16,6 +16,9 @@ Below you will find some links. Each link leads you to a different course sectio
 3. JavaScript Loops
 4. JavaScript Functions and Recursion
 5. JavaScript Objects Basics
+6. JavaScript Arrays
+7. JavaScript Strings
+8. The Math Module and Numbers
 
 Every exercise inside the repository has a code in front of it. For example inside the loops section
 the first exercise before title's exercise is the L-01. This is the same code you will find in tutorials
@@ -48,5 +51,9 @@ An introduction to arrays and how to store multiple values in one place [Find it
 #### JS Working with Strings
 
 An introduction walkthrough to the string data type [Find it here](https://www.goconqr.com/c/61278-js-strings-data-type/course_modules/91617-course-s-objectives?=)
+
+#### JS Working with Numbers
+
+An introduction to the Math JS Module and how to create things randomly [Find the walkthrough here](https://www.goconqr.com/en-US/c/62053/course_modules/92727)
 
 This repository is still a work in progress. **I update it everyday** , so more is coming!
