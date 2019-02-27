@@ -28,7 +28,7 @@ let createEvent = function(usersDate) {
     }
 }
 
-let preferrableDate = new Date(2019, 2, 23);
+let preferrableDate = new Date(2020, 2, 23);
 let notAcceptableDate = new Date(2017, 5, 3);
 
 createEvent(preferrableDate);

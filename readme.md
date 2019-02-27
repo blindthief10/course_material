@@ -19,6 +19,7 @@ Below you will find some links. Each link leads you to a different course sectio
 6. JavaScript Arrays
 7. JavaScript Strings
 8. The Math Module and Numbers
+9. JavaScript Date Object
 
 Every exercise inside the repository has a code in front of it. For example inside the loops section
 the first exercise before title's exercise is the L-01. This is the same code you will find in tutorials
@@ -55,5 +56,9 @@ An introduction walkthrough to the string data type [Find it here](https://www.g
 #### JS Working with Numbers
 
 An introduction to the Math JS Module and how to create things randomly [Find the walkthrough here](https://www.goconqr.com/en-US/c/62053/course_modules/92727)
+
+#### JS Working with Dates
+
+An introduction to JS Date object and how to work with dates in JS [Find the walkthrough here]()
 
 This repository is still a work in progress. **I update it everyday** , so more is coming!

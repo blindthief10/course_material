@@ -2,7 +2,7 @@ let checkWeekend = function(date) {
   if (date.getDay() === 0 || date.getDay() === 6) {
     console.log('It is a weekend!');
   } else {
-    console.log('It is a weiterbildung date!!!');
+    console.log('It is a weiterbildung day!!!');
   }
 }
 
