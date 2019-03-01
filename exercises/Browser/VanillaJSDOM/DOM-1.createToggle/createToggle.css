@@ -1,0 +1,42 @@
+button {
+  border: none;
+  font-size: 2.5vw;
+  padding: 1.5vw 0.5vw;
+  background: red;
+  color: white;
+  font-family: tahoma;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 1.5vw;
+  padding-left: 0;
+  display: none;
+}
+
+ul li {
+  margin: 0.5vw 0;
+  padding: 1vw 0.5vw;
+  background: green;
+  color: white;
+}
+
+p {
+  font-family: verdana;
+  font-size: 1.5vw;
+  margin-top: 0.5vw;
+  background: #ccc;
+  line-height: 2.5vw;
+  padding: 1vw 4vw;
+  box-sizing: border-box;
+  overflow: hidden;
+  transition: all 0.3s ease-out;
+}

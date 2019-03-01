@@ -59,6 +59,6 @@ An introduction to the Math JS Module and how to create things randomly [Find th
 
 #### JS Working with Dates
 
-An introduction to JS Date object and how to work with dates in JS [Find the walkthrough here]()
+An introduction to JS Date object and how to work with dates in JS [Find the walkthrough here](https://www.goconqr.com/en-US/c/62108/course_modules/92797)
 
 This repository is still a work in progress. **I update it everyday** , so more is coming!
