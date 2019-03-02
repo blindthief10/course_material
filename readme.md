@@ -25,14 +25,6 @@ Every exercise inside the repository has a code in front of it. For example insi
 the first exercise before title's exercise is the L-01. This is the same code you will find in tutorials
 section so you can identify the exercise and the solution.
 
-
-
-
-
-#### JS Loops
-
-Working with loops in JS walkthrough. [Find more here](https://www.goconqr.com/en-US/c/60238/course_modules/106652)
-
 #### JS Functions
 
 Walkthrough for basic concepts of functional programming [Find the walkthrough here](https://www.goconqr.com/en-US/c/60360/course_modules/90158)

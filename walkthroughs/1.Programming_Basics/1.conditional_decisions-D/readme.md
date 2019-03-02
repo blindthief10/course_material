@@ -4,7 +4,7 @@ This folder is the dedicated walkthrough regarding making decisions and executin
 conditional code with JS. Some of the topics involve if... else statements, switch
 ... case statements, making comparisons, logical operators, boolean values and more.
 
-Beware of the code next to each file. This code corresponds to an exercise lecture in goconqr
+Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.
 
 ### JS Making Decisions
