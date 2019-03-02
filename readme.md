@@ -27,9 +27,7 @@ section so you can identify the exercise and the solution.
 
 
 
-#### JS Making Decisions
 
-Working with if...else statements and decision making in JS [Find the walkthrough here](https://www.goconqr.com/en/c/59891)
 
 #### JS Loops
 

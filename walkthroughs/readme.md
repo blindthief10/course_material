@@ -20,4 +20,4 @@ the students get deeper into the logic of programming, **algorithms and data str
 The trainer shows to participants how they apply existing and fresh knowledge, in order
 to make a webpage more interactive. This topic includes **vanillaJS, JQuery and React.**
 
-##### Jump inside the folder for a more detailed presentation of every lecture.
+#### Jump inside the folder for a more detailed presentation of every lecture.

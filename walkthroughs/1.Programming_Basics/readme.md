@@ -31,7 +31,7 @@ As you probably noticed there is no JS introduction folder, that's because there
 aren't many exercises that require storing code. Most of this first walkthrough
 contains the initial steps into the world of JavaScript.
 
-#### The trainer's path
+#### The trainer's path to this module:
 
 In this case the trainer goes through:
 
