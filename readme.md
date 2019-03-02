@@ -25,10 +25,6 @@ Every exercise inside the repository has a code in front of it. For example insi
 the first exercise before title's exercise is the L-01. This is the same code you will find in tutorials
 section so you can identify the exercise and the solution.
 
-#### Object oriented Programming in JS
-
-A walkthrough for basic concepts on working with Objects, classes and inheritance [Find it here](https://www.goconqr.com/c/60777-js-objects-basics/course_modules/90823-course-s-objectives?=)
-
 #### JS Working with Arrays
 
 An introduction to arrays and how to store multiple values in one place [Find it here](https://www.goconqr.com/en/c/61130/course_modules/91401)
