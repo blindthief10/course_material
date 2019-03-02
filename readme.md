@@ -25,9 +25,7 @@ Every exercise inside the repository has a code in front of it. For example insi
 the first exercise before title's exercise is the L-01. This is the same code you will find in tutorials
 section so you can identify the exercise and the solution.
 
-#### Introduction to JS
 
-The first step into JavaScript basics [Find the walkthrough here](https://www.goconqr.com/en-US/c/59774/course_modules/89327)
 
 #### JS Making Decisions
 

@@ -8,7 +8,7 @@ For example, Programming basics **must be taught** before browser because the ke
 concepts that are used within browser exercises, expect that data structure topics
 are cleared from previous modules.
 
-Analytically each modules serves the following purpose:
+Analytically each module serves the following purposes:
 
 #### Programming Basics:
 
