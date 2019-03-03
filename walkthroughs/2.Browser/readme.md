@@ -8,7 +8,7 @@ participant, and offer a clear structure alongside with a smooth learning flow.
 
 Analytically the **Browser's enviroment** topics are the following:
 
-1. Introduction to web API's, like setInterval or setTimeout
+1. Introduction to web API's and specifically Timing Functions, like setInterval and setTimeout
 2. Manipulating the DOM with VanillaJS
 
 Dive into each folder to read the full purpose and structure of each module.
