@@ -15,15 +15,15 @@ An introduction to arrays and how to store multiple values in one place [Find it
 
 1. Introduction to arrays. How do they differ from objects? Why is more preferable when storing relevant info?
 2. How to find out how long an array is? What is the length property? How it can be used?
-3. A-1 exercise
+3. **A-1** more_interesting.js: **Prerequisites**: Constructing arrays, arrays length, function module, conditional statements module.
 4. What is index? How to access specific slice of info, store in an array?
-5. A-2 exercise
+5. **A-2** candidate_trainer.js: **Prerequisites**: A-1 Prerequisites
 6. How can we iterate through an array? How can we apply functionality for every element? For...of loop explained
-7. A-3 exercise
+7. **A-3** calculate_failure.js: **Prerequisites**: A-1 Prerequisites, looping through arrays, loop module
 8. The trainer shows the basic array methods, so they can store, retrieve, remove or update info inside an array.
-9. A-4 exercise
-10. A-5 exercise
-11. A-6 exercise
+9. **A-4** course_evaluation_class.js: **Prerequisites**: A-3 Prerequisites, Object oriented module, the **push** method
+10. **A-5** hire_or_not.js: **Prerequisites**: A-4 Prerequisites, the **includes** method.
+11. **A-6** assemble_calculate_avg_max.js: **Prerequisites**: A-4 Prerequisites, the **concat** method.
 12. The trainer shows that an array's element can also be another array. Nested arrays concept introduced.
-13. A-7 exercise
-14. A-8 exercise
+13. **A-7** groceries.js: **Prerequisites**: A-4 Prerequisites, nested arrays concept
+14. **A-8** salesToBasket.js: **Prerequisites**: A-3 Prerequisites, hasOwnProperty, Object oriented module.
