@@ -10,9 +10,6 @@ let checkAndRemoveClass = function(array, ...classToCheck) {
   }
 }
 
-// checkAndRemoveClass(movies, 'active');
-// checkAndRemoveClass(pills, 'selected');
-
 for (let i = 0; i < pills.length; i++) {
   pills[i].addEventListener('click', function(ev) {
     checkAndRemoveClass(movies, 'active');
