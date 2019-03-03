@@ -1,10 +1,9 @@
-let timeTillChristmas = setInterval(function() {
+let timeTillChristmas = function() {
   const today = new Date();
   const christmas = new Date(2019, 11, 25);
 
   if (christmas <= today) {
     console.log(`Christmas has arrived! Ho ho ho!`);
-    clearInterval(timeTillChristmas);
   }
   const countDown = [];
 
@@ -31,4 +30,6 @@ let timeTillChristmas = setInterval(function() {
   countDown.push(secsRounded);
 
   console.log(`Remaining time for christmas is ${countDown.join(':')}`);
-}, 1000)
+}
+
+timeTillChristmas();
