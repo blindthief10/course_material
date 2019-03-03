@@ -2,7 +2,7 @@
 
 This folder is a dedicated walkthrough devoted to JavaScript strings data type. The point of this
 module is to get ourselves more comfortable working with strings, manipulate strings, and learn all
-the different methods that make our life easier.
+the different methods that make our life easier. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.

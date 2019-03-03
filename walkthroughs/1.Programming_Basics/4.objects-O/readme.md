@@ -2,7 +2,7 @@
 
 This folder is a dedicated walkthrough regarding the **JavaScript Objects** section. Some of the
 key concepts introduced here are: object literals, properties, methods, the this keyword, the new
-constructor, class inheritance and more.
+constructor, class inheritance and more. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.

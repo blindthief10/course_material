@@ -1,8 +1,6 @@
 ### JavaScript Decisions and Conditional Statements
 
-This folder is the dedicated walkthrough regarding making decisions and executing
-conditional code with JS. Some of the topics involve if... else statements, switch
-... case statements, making comparisons, logical operators, boolean values and more.
+This folder is the dedicated walkthrough regarding making decisions and executing conditional code with JS. Some of the topics involve if... else statements, switch... case statements, making comparisons, logical operators, boolean values and more. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.

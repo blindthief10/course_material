@@ -2,7 +2,7 @@
 
 This folder is a dedicated walkthrough to the JavaScript native Date object and it's corresponding methods
 and properties. After the end of this module the participants should feel more comfortable working with
-dates, times, creating countdown timers, checking future events and more.
+dates, times, creating countdown timers, checking future events and more. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.

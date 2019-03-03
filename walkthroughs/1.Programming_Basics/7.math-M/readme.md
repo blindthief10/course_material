@@ -1,6 +1,6 @@
 ### JavaScript Math Module
 
-This folder is a dedicated walkthrough to JavaScript's Math module and to working with numbers in JavaScript in general. After this module the participants should feel comfortable working with numbers, creating random incidents, finding the biggest and lowest values from a collection and more.
+This folder is a dedicated walkthrough to JavaScript's Math module and to working with numbers in JavaScript in general. After this module the participants should feel comfortable working with numbers, creating random incidents, finding the biggest and lowest values from a collection and more. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.

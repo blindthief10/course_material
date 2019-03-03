@@ -2,7 +2,7 @@
 
 This folder is the dedicated walkthrough regarding JavaScript Loops and executing
 repetitive code in JS. Some of the topics involve different types of loops, methods for
-exiting the loops, skiping loops and more.
+exiting the loops, skipping loops and more. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.

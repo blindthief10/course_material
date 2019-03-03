@@ -2,7 +2,7 @@
 
 This folder is a dedicated walkthrough devoted to the concept of JavaScript arrays. Some of the key
 concepts that are covered in this module are: creating arrays to store multiple values, difference from
-objects, how to iterate through an array, array methods and more.
+objects, how to iterate through an array, array methods and more. Full module's objectives can be found inside the walkthrough's link below.
 
 Beware of the code next to each file's name. This code corresponds to an exercise lecture in goconqr
 platform, inside the following link module below.
