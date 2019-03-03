@@ -1,11 +1,11 @@
 let timeTillChristmas = function() {
   const today = new Date();
   const christmas = new Date(2019, 11, 25);
+  const countDown = [];
 
   if (christmas <= today) {
     console.log(`Christmas has arrived! Ho ho ho!`);
   }
-  const countDown = [];
 
   const differenceInMs = christmas - today;
 
