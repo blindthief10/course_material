@@ -1,16 +1,43 @@
-let Person = function(firstName, lastName, bankAccountInAmericanDollars, countryOfResidence, usDollarToLocalCurrency) {
+let Person = function(firstName, lastName, bankAccountInAmericanDollars, countryOfResidence, convertToLocal) {
   this.firstName = firstName;
   this.lastName = lastName;
   this.bankAccountInAmericanDollars = bankAccountInAmericanDollars;
   this.countryOfResidence = countryOfResidence;
-  this.convertToLocalCurrency = function() {
-    this.localMoney = this.bankAccountInAmericanDollars * this.usDollarToLocalCurrency;
-  };
+  this.convertToLocal = convertToLocal;
 }
 
-const jake = new Person('Konstantinos', 'Diakogiannis', 1000, 'Greece', 0.86);
-const gidday = new Person('Meuron', 'Gidday', 2000, 'Australia', 1.38);
-const steffan = new Person('Steffan', 'Effenberg', 5000, 'Switzerland', 0.96);
+const jake = {
+  firstName: 'Konstantinos',
+  lastName: 'Diakogiannis',
+  bankAccountInAmericanDollars: 1000,
+  countryOfResidence: 'Greece',
+  usDollarToLocalCurrency: 0.86,
+  convertToLocalCurrency: function() {
+    this.localMoney = this.bankAccountInAmericanDollars * this.usDollarToLocalCurrency;
+  }
+}
+
+const gidday = {
+  firstName: 'Meuron',
+  lastName: 'Gidday',
+  bankAccountInAmericanDollars: 2000,
+  countryOfResidence: 'Australia',
+  usDollarToLocalCurrency: 1.38,
+  convertToLocalCurrency: function() {
+    this.localMoney = this.bankAccountInAmericanDollars * this.usDollarToLocalCurrency;
+  }
+}
+
+const steffan = {
+  firstName: 'Steffan',
+  lastName: 'Effenberg',
+  bankAccountInAmericanDollars: 5000,
+  countryOfResidence: 'Switzerland',
+  usDollarToLocalCurrency: 0.96,
+  convertToLocalCurrency: function() {
+    this.localMoney = this.bankAccountInAmericanDollars * this.usDollarToLocalCurrency;
+  }
+}
 
 jake.convertToLocalCurrency();
 gidday.convertToLocalCurrency();
