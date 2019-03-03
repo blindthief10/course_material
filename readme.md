@@ -25,10 +25,6 @@ Every exercise inside the repository has a code in front of it. For example insi
 the first exercise before title's exercise is the L-01. This is the same code you will find in tutorials
 section so you can identify the exercise and the solution.
 
-#### JS Working with Strings
-
-An introduction walkthrough to the string data type [Find it here](https://www.goconqr.com/c/61278-js-strings-data-type/course_modules/91617-course-s-objectives?=)
-
 #### JS Working with Numbers
 
 An introduction to the Math JS Module and how to create things randomly [Find the walkthrough here](https://www.goconqr.com/en-US/c/62053/course_modules/92727)
