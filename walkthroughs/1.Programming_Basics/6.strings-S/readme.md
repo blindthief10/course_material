@@ -16,9 +16,24 @@ An introduction walkthrough to the string data type [Find it here](https://www.g
 1. The trainer shows how to create string literals and concatenate them using the **+** operator.
 2. The trainer introduces another the ES6 string interpolation alternative, how to inject JS expressions inside.
 3. The trainer shows ways to manipulate data when working with strings. String props methods such length and split.
-4. **S-1** find_longest.js: **Prerequisites**: String literals, string interpolation, split method, length property, Arrays module. Loop module.
-5. The trainer shows more string methods (or useful array methods when working with strings) such as reverse and join, toLowerCase.
-6. **S-2** palindrome.js: **Prerequisites**: S-1 Prerequisites, reverse method, join method, toLowerCase method. functions module.
-7. **S-3** anagram.js: **Prerequisites**: S-2 Prerequisites, sort string method.
-8. Trainers shows the participants how to replace part of a string with another string by using the replace method.
-8. **S-4** sentence_abbreviation.js: **Prerequisites**: S-2 Prerequisites, replace method.
+* **S-1** find_longest.js: **Prerequisites**:
+  * >String literals
+  * >string interpolation
+  * >split method
+  * >length property
+  * >arrays-A module
+  * >loops-L module.
+4. The trainer shows more string methods (or useful array methods when working with strings) such as reverse and join, toLowerCase.
+* **S-2** palindrome.js: **Prerequisites**:
+  * >S-1 Prerequisites
+  * >reverse method
+  * >join method
+  * >toLowerCase method
+  * >functions-F module.
+* **S-3** anagram.js: **Prerequisites**:
+  * >S-2 Prerequisites
+  * >sort string method
+5. Trainers shows the participants how to replace part of a string with another string by using the replace method.
+* **S-4** sentence_abbreviation.js: **Prerequisites**:
+  * >S-2 Prerequisites
+  * >replace method
