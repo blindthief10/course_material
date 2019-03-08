@@ -15,35 +15,35 @@ An introduction to arrays and how to store multiple values in one place [Find it
 
 1. Introduction to arrays. How do they differ from objects? Why is more preferable when storing relevant info?
 2. How to find out how long an array is? What is the length property? How it can be used?
-* **A-1** more_interesting.js: **Prerequisites**:
+* **A-1** more_interesting.js: **_Prerequisites_**:
   * >Constructing arrays
   * >arrays length
   * >functions-F module
   * >conditional_decisions-D module.
 3. What is index? How to access specific slice of info, store in an array?
-* **A-2** candidate_trainer.js: **Prerequisites**:
+* **A-2** candidate_trainer.js: **_Prerequisites_**:
   * >A-1 Prerequisites
 4. How can we iterate through an array? How can we apply functionality for every element? For...of loop explained
-* **A-3** calculate_failure.js: **Prerequisites**:
+* **A-3** calculate_failure.js: **_Prerequisites_**:
   * >A-1 Prerequisites
   * >looping through arrays
   * >loops-L module
 5. The trainer shows the basic array methods, so they can store, retrieve, remove or update info inside an array.
-* **A-4** course_evaluation_class.js: **Prerequisites**:
+* **A-4** course_evaluation_class.js: **_Prerequisites_**:
   * >A-3 Prerequisites
   * >objects-O module
   * >the **push** method
-* **A-5** hire_or_not.js: **Prerequisites**:
+* **A-5** hire_or_not.js: **_Prerequisites_**:
   * >A-4 Prerequisites
   * >the **includes** method.
-* **A-6** assemble_calculate_avg_max.js: **Prerequisites**:
+* **A-6** assemble_calculate_avg_max.js: **_Prerequisites_**:
   * >A-4 Prerequisites
   * >the **concat** method.
 6. The trainer shows that an array's element can also be another array. Nested arrays concept introduced.
-* **A-7** groceries.js: **Prerequisites**:
+* **A-7** groceries.js: **_Prerequisites_**:
   * >A-4 Prerequisites
   * >nested arrays concept
-* **A-8** salesToBasket.js: **Prerequisites**:
+* **A-8** salesToBasket.js: **_Prerequisites_**:
   * >A-3 Prerequisites
   * >hasOwnProperty
   * >objects-O module.

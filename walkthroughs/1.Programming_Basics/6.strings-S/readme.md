@@ -16,7 +16,7 @@ An introduction walkthrough to the string data type [Find it here](https://www.g
 1. The trainer shows how to create string literals and concatenate them using the **+** operator.
 2. The trainer introduces another the ES6 string interpolation alternative, how to inject JS expressions inside.
 3. The trainer shows ways to manipulate data when working with strings. String props methods such length and split.
-* **S-1** find_longest.js: **Prerequisites**:
+* **S-1** find_longest.js: **_Prerequisites_**:
   * >String literals
   * >string interpolation
   * >split method
@@ -24,16 +24,16 @@ An introduction walkthrough to the string data type [Find it here](https://www.g
   * >arrays-A module
   * >loops-L module.
 4. The trainer shows more string methods (or useful array methods when working with strings) such as reverse and join, toLowerCase.
-* **S-2** palindrome.js: **Prerequisites**:
+* **S-2** palindrome.js: **_Prerequisites_**:
   * >S-1 Prerequisites
   * >reverse method
   * >join method
   * >toLowerCase method
   * >functions-F module.
-* **S-3** anagram.js: **Prerequisites**:
+* **S-3** anagram.js: **_Prerequisites_**:
   * >S-2 Prerequisites
   * >sort string method
 5. Trainers shows the participants how to replace part of a string with another string by using the replace method.
-* **S-4** sentence_abbreviation.js: **Prerequisites**:
+* **S-4** sentence_abbreviation.js: **_Prerequisites_**:
   * >S-2 Prerequisites
   * >replace method
