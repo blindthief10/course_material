@@ -14,7 +14,13 @@ Introduction on how to use setInterval and setTimeout functions. [Find the walkt
 1. Trainer introduces that this module is **NOT** part of the core JavaScript Language, but is given through Web API's.
 2. Trainer explains the theory and the problem that these functions solve. Execute **every** period of time, or execute **after** period of time once.
 3. The trainer introduces the setInterval high-order function and it's parts.
-4. **TF-1** last_minute.js: **Prerequisites**: setInterval, programming basics topic.
-5. **TF-2** countdown_to_event.js: **Prerequisites**: TF-1 Prerequisites. Progress to **D-5** exercise.
-6. Trainer explains the setTimeout function and when it is used for before jumping to browser DOM topics.
-7. **TF-3** timeout_reminder.js: setTimeout, alert function.
+* **TF-1** last_minute.js: **_Prerequisites_**:
+  * >setInterval
+  * >Programming_Basics topic
+* **TF-2** countdown_to_event.js: **_Prerequisites_**:
+  * >TF-1 Prerequisites
+  * >Reference to **D-5** exercise
+4. Trainer explains the setTimeout function and when it is used for before jumping to browser DOM topics.
+* **TF-3** timeout_reminder.js: **_Prerequisites_**:
+  * >setTimeout
+  * >alert function
