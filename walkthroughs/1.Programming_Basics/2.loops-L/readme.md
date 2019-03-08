@@ -21,7 +21,7 @@ Working with loops in JS walkthrough. [Find more here](https://www.goconqr.com/e
   * >While loop basic functionality.
 * **L-2** odd_or_even.js: **_Prereqisites_**:
   * >While loop
-  * conditional_decisions-D module.
+  * >conditional_decisions-D module.
 * **L-3** fizzbuzz_loop.js: **_Prereqisites_**:
   * >All L-1 Prerequisites
 * **L-4** container_initial.js: **_Prereqisites_**:
@@ -29,18 +29,18 @@ Working with loops in JS walkthrough. [Find more here](https://www.goconqr.com/e
 * The trainer introduces the **break** keyword inside a while loop. Use an exercise to add this progressively.
 * **L-5** container_break.js: **_Prereqisites_**:
   * >All L-4 Prerequisites
-  * the break keyword.
+  * >the break keyword.
 * The trainer introduces the **continue** keyword. Use an existing exercise to add this concept progressively
 * **L-6** container_continue.js: **_Prereqisites_**:
   * >All L-5 Prerequisites
-  * continue keyword.
+  * >the continue keyword.
 * The trainer shows the alternative option of a for loop. Modify an existing exercise with this new concept.
 * **L-7** container_for.js: **_Prereqisites_**:
   * >All L-6 Prerequisites
-  * for loop.
+  * >for loop.
 * **L-8** employees.js: **_Prereqisites_**:
   * >For loop
-  * conditional_decisions-D module.
+  * >conditional_decisions-D module.
 * **L-9** selling_clothes.js: **_Prereqisites_**:
   * >All L-8 Prerequisites
 * The trainer introduces the concept of nested loops, by showing the prime numbers from 1 to 100 problem.
@@ -48,4 +48,4 @@ Working with loops in JS walkthrough. [Find more here](https://www.goconqr.com/e
   * > Nested for loops
 * **L-11** prime_numbers_refactor.js: **_Prereqisites_**:
   * >Nested loops
-  * conditional_decisions-D module.
+  * >conditional_decisions-D module.
