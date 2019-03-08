@@ -24,8 +24,12 @@ Working with if...else statements and decision making in JS [Find the walkthroug
   * >comparison equal operators
   * >boolean values.
 * The trainer introduces the switch... case syntax and when it is preferable.
-* **D-2** ice_cream.js: **Prerequisites**: Switch_case... break and default case.
-* **D-3** lottery_numbers.js: **Prerequisites**: D-1 and D-2 prerequisites combined.
-* **D-4** selling_smartphones.js: **Prerequisites**: D-1 and D-2 prerequisites combined.
+* **D-2** ice_cream.js: **_Prerequisites_**:
+  * >Switch_case... break and default case.
+* **D-3** lottery_numbers.js: **_Prerequisites_**:
+  * >D-1 and D-2 prerequisites combined.
+* **D-4** selling_smartphones.js: **_Prerequisites_**:
+  * >D-1 and D-2 prerequisites combined.
 * The trainer shows the ternary operator for concise inline decision making.
-* **D-5** restExercises.js: **Prerquisites**: All topics that have been covered in this module.
+* **D-5** restExercises.js: **_Prerequisites_**:
+  * >All topics that have been covered in this module.
