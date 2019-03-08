@@ -19,7 +19,7 @@ Walkthrough for basic concepts of functional programming [Find the walkthrough h
 4. Assign variables to the result of a function example.
 5. Making re-usable chunks by applying different values to arguments.
 * **F-1** return_type.js: **_Prerequisites_**:
-  * >Functions syntax decalaration
+  * >Functions syntax declaration
   * >return keyword
   * >typeof keyword
   * > function arguments
