@@ -39,11 +39,21 @@ An introduction to arrays and how to store multiple values in one place [Find it
 * **A-6** assemble_calculate_avg_max.js: **_Prerequisites_**:
   * >A-4 Prerequisites
   * >the **concat** method.
-6. The trainer shows that an array's element can also be another array. Nested arrays concept introduced.
-* **A-7** groceries.js: **_Prerequisites_**:
+6. The trainer revisits and explains thoroughly the importance of filter, forEach and map functions. What is their purpose, how they can be used and what is the difference. Practical examples needed.
+* **A-7** cheap_airlines.js: **_Prerequisites_**:
+  * >A-4 Prerequisites
+  * >Explicitly the filter, map or forEach functions  
+7. The trainer shows that an array's element can also be another array. Nested arrays concept introduced.
+* **A-8** groceries.js: **_Prerequisites_**:
   * >A-4 Prerequisites
   * >nested arrays concept
-* **A-8** salesToBasket.js: **_Prerequisites_**:
+8. The trainer explains the reduce function and why it is used. What are the intermediate steps that the function does under the hood and how does it work? Summary of number example is needed.
+* **A-9** assemble_string.js **__Prerequisites__**:
+  * >A-1 Prerequisites
+  * >The reduce function
+  * >Basic string concatenation
+* **A-10** salesToBasket.js: **_Prerequisites_**:
   * >A-3 Prerequisites
   * >hasOwnProperty
   * >objects-O module.
+  * >**Optionally** the reduce function.
