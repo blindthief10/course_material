@@ -18,6 +18,7 @@ Analytically the sub-topics, of which the Programming Basics module is comprised
 7. JavaScript Strings
 8. Math and JavaScript Numbers
 9. JavaScript Dates
+10. ES6 Features
 
 For a more detailed walkthrough, jump in to each folder, in order to discover
 the purpose each module should fulfill.
