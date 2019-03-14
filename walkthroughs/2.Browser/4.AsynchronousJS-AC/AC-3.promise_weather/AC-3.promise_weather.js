@@ -14,18 +14,6 @@ const colorTemperatures = [
   {limitTemp: -100, color: 'white'}
 ];
 
-let makeAllRequestsSimultaneously = collectionOfCities => {
-  let allCitiesPromises = [];
-  for (city of collectionOfCities) {
-    let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${authToken}`
-    let promiseCity =  new Promise((resolve, reject) => {
-        resolve(fetch(url));
-    })
-    allCitiesPromises.push(promiseCity);
-  }
-  return Promise.all(allCitiesPromises);
-}
-
 const makeRequestForACity = city => {
   const urlToApply = `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${authToken}`;
   fetch(urlToApply)
@@ -53,6 +41,7 @@ const makeRequestForACity = city => {
       inputField.value = '';
       inputField.focus();
     })
+    .catch(err => console.log(err))
 }
 
 form.addEventListener('submit', (ev) => {
