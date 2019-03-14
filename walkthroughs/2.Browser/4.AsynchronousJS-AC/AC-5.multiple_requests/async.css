@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+
+input {
+  display: block;
+  margin: 2vw auto;
+  font-size: 2.4vw;
+}
+
+input::placeholder {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 1vw auto;
+  outline: none;
+  font-size: 1.6vw;
+  font-family: 'Franklin Gothic';
+  background: orange;
+  border: 0.1vw solid transparent;
+  padding: 1.1vw;
+  transition: all 0.4s ease-in;
+}
+
+button:hover {
+  color: orange;
+  background: white;
+  border: 0.1vw solid orange;
+  cursor: pointer;
+}
+
+#container {
+  display: flex;
+  margin: 1vw auto;
+  flex-wrap: wrap;
+}
+
+#container section {
+  border: 0.1vw solid black;
+  padding: 1.5vw 2vw;
+  font-size: 2.5vw;
+  font-family: tahoma;
+  margin: 1.5vw 0.8vw;
+  width: 27vw;
+}
+
+h3 {
+  text-align: center;
+  margin: 0.2vw 0;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+}
