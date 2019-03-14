@@ -33,10 +33,26 @@ and more concise syntax?
 9. Introduction to promises and to the what problem do they solve? Show syntax, the native promise object, and the methods, resolve and reject. Real world example again needed here.
 10. The trainer introduces what the **.then()** function does, and how it can be chained after a function that returns a promise resolved.
 11. The trainer shows that the .then function can be chained in order to perform many non-blocking operations that each waits for the previous execution to finish in order to start. It's important to have a log statement outside of the promise.then sequence so participants understand that the log executes first!
-* **AC-2** promisify_rulers.js **_Prerequisites_**:
+* **AC-2** promisify_rulers.js: **_Prerequisites_**:
   * >AC-1 Prerequisites
   * >Promises section, the .then() function, and chaining promises
 12. The trainer shows how to catch errors in promise chain by introducing the .catch block to the students.
 13. The trainer introduces the concept of AJAX calls, what are they and how are they useful in order to fetch data from an external resource without having to reload the whole page necessarily. Additionally explains what requests and responses are, and what is a JSON data structure and why it is introduced when exchanging data.
 14. The trainer shows the fetch API. How it is used in order to connect and fetch data and perform AJAX calls, which arguments does it accept and what does it return (a promise)?
-15.
+15. The trainer explains how to parse JSON and the body of a response and not only the header with .json function.
+* **AC-3** promise_weather.js: **_Prerequsites_**:
+  * >AC-2 Prerequisites
+  * >VanillaDOM module
+  * >The fetch API
+  * >AJAX calls
+  * >JSON data structure
+  * >Authentication token is required, you can use this: '16d4785f9c10724266053adb3c29dcfd'
+  * >The endpoint to hit is :
+  `https://api.openweathermap.org/data/2.5/weather?q=${yourCityHere}&APPID=${yourAuthenticationTokenHere}`
+16. The trainer introduces a different syntax in an async/await method. Why is this more clear way writing asynchronous code in synchronous fashion?
+* **AC-4** weather_async_await.js: **_Prerequisites_**:
+  * >AC-3 Prerequisites
+  * >The async await syntax
+* **AC-5** multiple_requests.js: **_Prerequisites_**:
+  * >AC-4 Prerequisites
+17. The trainer shows last the Promise.all method and how to perform multiple requests, save all promises into an array of promises, and when everything is back proceed further.
