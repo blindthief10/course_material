@@ -55,53 +55,6 @@ const makeRequestForACity = city => {
     })
 }
 
-// let getWeatherForCity = async ev => {
-//   console.log('executed!');
-//   ev.preventDefault();
-//   let cities = inputField.value.split(`-`);
-//   let intervalCounter = 0;
-//   try {
-//       let allResponses = await makeAllRequestsSimultaneously(cities);
-//       let weatherData = [];
-//       for (response of allResponses) {
-//         let convertedResponse = await response.json();
-//         weatherData.push(convertedResponse);
-//         console.log(weatherData);
-//       }
-//
-//       let citiesInterval = setInterval( async () => {
-//         if (intervalCounter === weatherData.length - 1) {
-//           clearInterval(citiesInterval);
-//         }
-//         let section = document.createElement('SECTION');
-//         let heading = document.createElement('H3');
-//         let tempParagraph = document.createElement('P');
-//         let desc = document.createElement('SPAN');
-//         let littleImage = document.createElement('IMG');
-//         let footer = document.createElement('FOOTER');
-//         let tempInCelsius = Math.round(weatherData[intervalCounter].main.temp - 273);
-//         let color = colorTemperatures.find(entry => tempInCelsius > entry.limitTemp).color;
-//         heading.innerText = weatherData[intervalCounter].name;
-//         tempParagraph.innerHTML = `<b>${tempInCelsius}</b> <sup>O</sup>C`;
-//         desc.innerText = weatherData[intervalCounter].weather[0].description;
-//         littleImage.src = `http://openweathermap.org/img/w/${weatherData[intervalCounter].weather[0].icon}.png`;
-//         section.append(heading);
-//         section.append(tempParagraph);
-//         footer.append(desc);
-//         footer.append(littleImage);
-//         section.append(footer);
-//         section.style.background = color;
-//         divContainer.append(section);
-//         inputField.value = '';
-//         inputField.focus();
-//         intervalCounter++;
-//       }, 200)
-//   }catch (e) {
-//     console.warn(e);
-//   }
-//
-// }
-
 form.addEventListener('submit', (ev) => {
   ev.preventDefault();
   const cityValue = inputField.value;
