@@ -46,7 +46,7 @@ and more concise syntax?
   * >The fetch API
   * >AJAX calls
   * >JSON data structure
-  * >Authentication token is required, you can use this: '16d4785f9c10724266053adb3c29dcfd'
+  * >Authentication token is required, you can use this: `16d4785f9c10724266053adb3c29dcfd`
   * >The endpoint to hit is :
   `https://api.openweathermap.org/data/2.5/weather?q=${yourCityHere}&APPID=${yourAuthenticationTokenHere}`
 16. The trainer introduces a different syntax in an async/await method. Why is this more clear way writing asynchronous code in synchronous fashion?
