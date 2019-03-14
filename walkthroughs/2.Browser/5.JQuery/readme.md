@@ -25,15 +25,15 @@ A walkthrough to the main functionality of JQuery library [You can find the walk
 8. The trainer shows the most common effect functions of JQuery like .animate() and .fadeIn() and .fadeOut() and .slideUp() and .slideDown() and .slideToggle()
 9. The trainer shows how we can traverse and navigate the DOM by using all the necessary functions like .parent() etc.
 * **JQ-2** jquery_dropdown.js: **_Prerequisites_**:
-  * >JQ1 Prerequisites
+  * >JQ-1 Prerequisites
   * >Changing Attributes through JQuery
   * >Changing CSS properties, and css classes
   * >Use JQuery effects functions
 10. The trainer shows all the necessary methods and functions in order to create elements on the fly and where they should be appended. like .append(), .prepend(), .after(), .before()
 * **JQ-3** jquery_todo.js:  **_Prerequsites_**:
-  * >JQ2 Prerequisites
+  * >JQ-2 Prerequisites
   * >All appending methods
 11. The trainer introduces how to perform AJAX calls by using the $AJAX method in order to fetch data. Also mention the other methods like $.get the $.post and the $.load.
 * **JQ-4** jquery_weather.js: **_Prerequisites__**:
-  * >JQ3 Prerequisites
+  * >JQ-3 Prerequisites
   * >JQuery Ajax methods
