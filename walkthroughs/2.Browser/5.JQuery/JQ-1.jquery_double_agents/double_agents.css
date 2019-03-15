@@ -1,0 +1,14 @@
+button {
+  width: 25vw;
+  padding: 2.5vw;
+  font-size: 1.4vw;
+  color: white;
+  margin: 5vw 35%;
+  background: red;
+  border: none;
+  border-radius: 1.5vw;
+}
+
+button:hover {
+  cursor: pointer;
+}

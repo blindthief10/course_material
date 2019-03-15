@@ -16,7 +16,7 @@ A walkthrough to the main functionality of JQuery library [You can find the walk
 3. The trainer shows all the CSS like selectors that JQuery uses in order to grab HTML elements.
 4. The trainer shows how to attach events to JQuery selected elements. Either single events or multiple events on the same element is possible.
 5. The trainer explains the methods JQuery provides to deal with html content, text and values from input fields. Respectively all the .html(), text(), val()
-* **JQ-1** double_agents.js: **_Prerequsites_**:
+* **JQ-1** jquery_double_agents.js: **_Prerequsites_**:
   * >JQuery selectors
   * >JQuery multiple events assignment
   * >html(), text() and val()
