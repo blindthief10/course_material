@@ -1,0 +1,79 @@
+input, textarea {
+  margin: 1vw;
+  display: block;
+}
+
+input:invalid {
+  border: 0.2vw solid red;
+}
+
+input:invalid + p.error {
+  display: block;
+}
+
+p.countermessage {
+  color: blue;
+}
+
+p.error {
+  display: none;
+  color: red;
+}
+
+input[type="checkbox"], input[type="color"] {
+  display: inline-block;
+}
+
+textarea {
+  width: 45%;
+  height: 8vw;
+  font-size: 1.4vw;
+  margin-left: 0.5vw;
+  padding: 1vw;
+}
+
+h3 {
+  text-align: center;
+  font-size: 2.5vw;
+  margin: 1vw auto;
+  padding: 2vw;
+}
+
+p {
+  font-size: 1.75vw;
+  padding: 1vw;
+}
+
+section {
+  text-align: center;
+  width: 50vw;
+  margin: 3vw auto;
+  position: relative;
+}
+
+article {
+  font-size: 1.5vw;
+  font-family: tahoma;
+  padding: 1vw;
+}
+
+img {
+  width: 50%;
+  height: 25vw;
+}
+
+span {
+  font-size: 2.5vw;
+  position: absolute;
+  right: 0.5vw;
+  top: 0.5vw;
+}
+
+li {
+  list-style-type: none;
+  padding: 0.5vw;
+}
+
+span:hover {
+  cursor: pointer;
+}
