@@ -1,0 +1,22 @@
+textarea {
+  width: 45vw;
+  padding: 1vw;
+  font-size: 1.5vw;
+  resize: none;
+}
+
+span {
+  font-size: 1.5vw;
+  display: none;
+  margin: 1vw;
+  color: white;
+  padding: 0.7vw;
+}
+
+#fb {
+  background: purple;
+}
+
+#tw {
+  background: deepskyblue;
+}
