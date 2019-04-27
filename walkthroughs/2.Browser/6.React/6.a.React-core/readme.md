@@ -12,4 +12,21 @@ Walkthrough to React framework and it's core functionality [Find the walkthrough
 
 #### Trainer's path to this module:
 
-This path will be updated during the upcoming week.
+1. The trainer introduces to the students what is React, which problem does it solve and what can we do with it?
+2. The trainer introduces the different ways we can use react. Either through create-react-app script, or through babel, webpack. Why do we need to compile and build our react code? Why does the browser not understand react code?
+3. The trainer installs react through create-react-app. Then shows around the filesystem project and what each module and file does.
+4. The trainer introduces the purpose of react components and the usability of splitting code to reusable chunks. Then the trainer shows how to create react components. What the necessary steps are: render function etc. and how can we render HTML through it.
+5. The trainer introduces the concept of JSX and how can we inject javaScript expressions inside HTML with React.
+6. The trainer shows that there must be always one outer element when more than one JSX elements are returned by the render function.
+7. The trainer shows how to render an element or a component conditionally, with if statement, ternary operator or && operator.
+8. Dynamic rendering. The trainer shows how to display an unknown amount of elements dynamically by pushing or popping to and from an array and using the map function.
+9. The trainer introduces the concept of component's props. How can we use them to parameterize same component with different data.
+10. The trainer shows how components can also render other components. What is the `this.props.children`?
+11. Validate and check types with the *prop-types* library.
+12. How to attach event listeners and handlers to react JSX elements? What is the bind function? What does it solve?
+13. How to reference an element inside the component through the `ref` attribute.
+14. What is state in react? Why is it used for to watch all component's values at a given time. The trainer shows how to create and manage state inside a component. The trainer shows that every change in state of a component, triggers it's render function.
+15. The trainer shows how to decompose components and perform separation of concerns. Every component should have it's own purpose. Then the trainer shows how to make parent-children components to communicate and pass data through props.
+16. The trainer shows how to make siblings components exchange data through a common parent component.
+* **1.RE-1.Todo_list**: **__Prerequisites__**:
+  * >All React core topics from 1 to 16.
