@@ -1,0 +1,19 @@
+.strike {
+  text-decoration: line-through !important;
+}
+
+.bouncer-enter {
+  animation: 0.5s bounceIn ease-in;
+}
+
+.bouncer-enter-active {
+
+}
+
+.bouncer-exit {
+  animation: 0.5s bounceOut ease-out;
+}
+
+.bouncer-exit-active {
+  opacity: 0;
+}
