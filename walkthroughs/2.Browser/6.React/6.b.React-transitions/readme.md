@@ -7,7 +7,7 @@ platform, inside the following link module below.
 
 ### Introduction to animation with react
 
-Walkthrough to react-transition library and it's core functionality [Find the walkthrough here]()
+Walkthrough to react-transition library and it's core functionality [Find the walkthrough here](https://www.goconqr.com/c/74394/course_modules/113491-course-s-objectives?)
 
 #### Trainer's path to this module:
 
